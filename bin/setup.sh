@@ -39,3 +39,4 @@ echo "****************************************"
 echo ""
 echo "Use 'exit' to close this terminal and open a new one to initialize the environment"
 echo ""
+
